@@ -35,8 +35,9 @@ This project uses a logistic regression model trained on simulated customer data
 - Streamlit for web deployment
 - Model deployment workflow
 
+--- ## 🌐 Live App 
+👉 [Click here to open the app] (https://customer-churn-predictor-nw358zaffwyowryc83nbhn.streamlit.app/)
 ---
-
 ## 🗂️ Files
 
 - `app.py` – Streamlit app code
